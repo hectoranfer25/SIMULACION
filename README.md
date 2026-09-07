@@ -1,7 +1,3 @@
-# IDS26-E5T8 — Simulador de flota vial
-
-Proyecto full stack para la evaluación IDS26-E5T8.
-
 ## Arquitectura
 
 - **Backend:** Python + FastAPI.
